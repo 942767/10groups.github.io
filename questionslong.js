@@ -1,4 +1,4 @@
-Questions =  [
+questions =  [
   
 //Economic Regulation - Planned
 {"id": 0, "question": "In the current system, it is necessary for the government to intervene in the economy to protect consumers.", "effects": {"y": -2, "ay": 2}},
