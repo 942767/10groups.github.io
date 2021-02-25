@@ -80,7 +80,7 @@ questions =  [
 {"id": 59, "question": "The general populace makes poor decisions.", "effects": {"y": 2, "bx": -2}},
 {"id": 60, "question": "Theocracy is a good system of government", "effects": {"y": 2, "bx": -2}},
 {"id": 61, "question": "Public opinion swings too much with emotional events to be useful for policy making", "effects": {"y": 2, "bx": -2}},
-{"id": 62, "question": "Popular opinion is not always right", "effects": {"y": 2, "bx": -2, "dx": = 2}},
+{"id": 62, "question": "Popular opinion is not always right", "effects": {"y": 2, "bx": -2}},
 {"id": 63, "question": "Catering to popular opinion is detrimental to a nation", "effects": {"y": 2, "bx": -2}},
 {"id": 64, "question": "Elections are a waste of resources", "effects": {"y": 2, "bx": -2}},
 {"id": 65, "question": "Only those who serve in the military should be allowed to have influence on who is in power", "effects": {"y": 2, "by": 2}}, 
@@ -191,10 +191,10 @@ questions =  [
 {"id": 166, "question": "There should be no police force", "effects": {"y": -2, "by": -2}}, 
 {"id": 167, "question": "People's freedom should have no limits", "effects": {"y": -2, "by": -2}}, 
 {"id": 168, "question": "Abortion should be legal in all cases", "effects": {"y": -2, "by": -2}}, 
-{"id": 169, "question": "People must be allowed to follow a religion": {"y": -2, "by": -2}}, 
-{"id": 170, "question": "Religious organizations often provide better assistance to the poor than the government does": {"y": -2, "by": -2, "x": 2}},
-{"id": 171, "question": "Nations should not maintain a military": {"y": -2, "by": -2}}, 
-{"id": 172, "question": "Whistleblowers should be strongly protected": {"y": -2, "by": -2}}, 
+{"id": 169, "question": "People must be allowed to follow a religion", "effects": {"y": -2, "by": -2}}, 
+{"id": 170, "question": "Religious organizations often provide better assistance to the poor than the government does", "effects": {"y": -2, "by": -2}},
+{"id": 171, "question": "Nations should not maintain a military", "effects": {"y": -2, "by": -2}}, 
+{"id": 172, "question": "Whistleblowers should be strongly protected", "effects": {"y": -2, "by": -2}}, 
 
 //Diplomatic Applicability - Universal
 {"id": 173, "question": "My political values should be spread as much as possible.", "effects": {"cx": -2}},
@@ -286,7 +286,7 @@ questions =  [
 {"id": 253, "question": "Religion usually provides the truth", "effects": {"dx": -2}},
 {"id": 254, "question": "I believe in a higher power", "effects": {"dx": -2}},
 {"id": 255, "question": "I believe there is something after death", "effects": {"dx": -2}},
-{"id": 256, "question": "Mothers may have careers, but their first duty is to be homemakers.", "effects": {"dx": -2}}
+{"id": 256, "question": "Mothers may have careers, but their first duty is to be homemakers.", "effects": {"dx": -2}},
 {"id": 257, "question": "Sex outside marriage is usually immoral.", "effects": {"dx": -2}},
 {"id": 258, "question": "These days openness about sex has gone too far.", "effects": {"dx": -2}},
 //Societal Tradition - Progress
@@ -381,7 +381,7 @@ questions =  [
 {"id": 330, "question": "Equality of outcome is important", "effects": {"gx": -2}},
 {"id": 331, "question": "A system of equal outcomes should be established.", "effects": {"gx": -2}},
 {"id": 332, "question": "People should have equal opportunity to succeed", "effects": {"gx": -2}},
-{"id": 333, "question": "People should be treated equally regardless of their groups, characteristics, sexuality, or culture.", "effects": {"gx": -2}}
+{"id": 333, "question": "People should be treated equally regardless of their groups, characteristics, sexuality, or culture.", "effects": {"gx": -2}},
 //Cultural Hierarchy - Hierarchy
 {"id": 334, "question": "Even though equal opportunities can lead to equal outcomes, society should still focus on equal opportunities, and not equal outcomes.", "effects": {"gx": -2}},
 {"id": 335, "question": "Hierarchies will inevitably be formed in every society, at any time.", "effects": {"gx": -2}},
@@ -398,7 +398,7 @@ questions =  [
 {"id": 343, "question": "No cultures are superior to others.","effects": {"gy": -2}},
 {"id": 344, "question": "I enjoy some foreign cultures","effects": {"gy": -2}},
 {"id": 345, "question": "We should be more accepting to other cultures","effects": {"gy": -2}},
-{"id": 346, "question": "Our culture would be better with other cultures mixed in more","effects"{"gy":-2}},
+{"id": 346, "question": "Our culture would be better with other cultures mixed in more","effects: "{"gy":-2}},
 {"id": 347, "question": "Monoculturalism is disastrous for society.", "effects": {"gy": -2}},
 {"id": 348, "question": "National cultures are important to protect", "effects": {"gy": -2}},
 {"id": 349, "question": "Race and ethnicity should be unimportant for everyone.", "effects": {"gy": -2}},
