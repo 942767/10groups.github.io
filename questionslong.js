@@ -403,67 +403,67 @@ questions =  [
 
 //Cultural Assimilation - Monocultural
 {"id": 336, "question": "If we accept migrants into our borders, the migrants should be expected to assimilate into our culture.", "effects": {"gy": 2}},
-{"id": 122, "question": "Multiculturalism is unrealistic.", "effects": {"gy": 2}},
-{"id": 123, "question": "Some cultures are inherently suprerior to other cultures.", "effects": {"gy": 2}},
+{"id": 337, "question": "Multiculturalism is unrealistic.", "effects": {"gy": 2}},
+{"id": 338, "question": "Some cultures are inherently suprerior to other cultures.", "effects": {"gy": 2}},
   
 //Cultural Assimilation - Multicultural
-{"id": 124, "question": "My nation should be more diverse.", "effects": {"gy": -2}},
-{"id": 125, "question": "No cultures are superior to others.","effects": {"gy": -2}},
-{"id": 125, "question": "I enjoy some foreign cultures","effects": {"gy": -2}},
-{"id": 125, "question": "We should be more accepting to other cultures","effects": {"gy": -2}},
-{"id": 125, "question": "Our culture would be better with other cultures mixed in more","effects"{"gy":-2}},
-{"id": 126, "question": "Monoculturalism is disastrous for society.", "effects": {"gy": -2}},
-{"id": 126, "question": "National cultures are important to protect", "effects": {"gy": -2, "cy": 2}},
-{"id": 127, "question": "Race and ethnicity should be unimportant for everyone.", "effects": {"gy": -2}},
-{"id": 127, "question": "Everybody should speak at least two languages", "effects": {"gy": -2}},
-{"id": 127, "question": "All societies are a blend of cultures", "effects": {"gy": -2}},
+{"id": 339, "question": "My nation should be more diverse.", "effects": {"gy": -2}},
+{"id": 340, "question": "No cultures are superior to others.","effects": {"gy": -2}},
+{"id": 341, "question": "I enjoy some foreign cultures","effects": {"gy": -2}},
+{"id": 342, "question": "We should be more accepting to other cultures","effects": {"gy": -2}},
+{"id": 343, "question": "Our culture would be better with other cultures mixed in more","effects"{"gy":-2}},
+{"id": 344, "question": "Monoculturalism is disastrous for society.", "effects": {"gy": -2}},
+{"id": 345, "question": "National cultures are important to protect", "effects": {"gy": -2, "cy": 2}},
+{"id": 346, "question": "Race and ethnicity should be unimportant for everyone.", "effects": {"gy": -2}},
+{"id": 347, "question": "Everybody should speak at least two languages", "effects": {"gy": -2}},
+{"id": 348, "question": "All societies are a blend of cultures", "effects": {"gy": -2}},
 
 //Procedural Compromize - Compromize 
-{"id": 127, "question": "Compromises should be made in order to suit the needs of most people.", "effects": {"hx": -2}},
-{"id": 128, "question": "Compromizing can avoid unnecessary conflict.", "effects": {"hx": -2}},
-{"id": 129, "question": "Adopting radical ideas isn't possible unless compromizes are made.", "effects": {"hx": -2}},
+{"id": 349, "question": "Compromises should be made in order to suit the needs of most people.", "effects": {"hx": -2}},
+{"id": 350, "question": "Compromizing can avoid unnecessary conflict.", "effects": {"hx": -2}},
+{"id": 351, "question": "Adopting radical ideas isn't possible unless compromizes are made.", "effects": {"hx": -2}},
 
 //Procedural Transition - Transitional
-{"id": 130, "question": "A transitional state should be made.", "effects": {"hy": 2}},
+{"id": 352, "question": "A transitional state should be made.", "effects": {"hy": 2}},
   
 //Procedural Transition - Direct
-{"id": 131, "question": "My ideology should be established as quick as possible.", "effects": {"hy": -2}},
-{"id": 132, "question": "My political ideals can be acheived within 10 years.", "effects": {"hy": -2}},
-{"id": 132, "question": "Nobody but me can adequately represent my views", "effects": {"hy": -2}},
+{"id": 353, "question": "My ideology should be established as quick as possible.", "effects": {"hy": -2}},
+{"id": 354, "question": "My political ideals can be acheived within 10 years.", "effects": {"hy": -2}},
+{"id": 355, "question": "Nobody but me can adequately represent my views", "effects": {"hy": -2}},
   
 //Political Extremism - Radical
-{"id": 133, "question": "My ideology is sometimes considered 'extreme'.", "effects": {"ix": 2}},
-{"id": 134, "question": "Violence and Revolutions are required in order to establish my ideology.", "effects": {"ix": 2}},
-{"id": 135, "question": "The current mainstream societal attitudes are problematic.", "effects": {"ix": 2}},
-{"id": 136, "question": "My political views are very different from the current status quo.", "effects": {"ix": 2}},
+{"id": 356, "question": "My ideology is sometimes considered 'extreme'.", "effects": {"ix": 2}},
+{"id": 357, "question": "Violence and Revolutions are required in order to establish my ideology.", "effects": {"ix": 2}},
+{"id": 358, "question": "The current mainstream societal attitudes are problematic.", "effects": {"ix": 2}},
+{"id": 359, "question": "My political views are very different from the current status quo.", "effects": {"ix": 2}},
 
 //Political Engagement - Apolitical
-{"id": 137, "question": "Politics is boring to me.", "effects": {"iy": -2}},
-{"id": 138, "question": "Nearly all politicians are evil and problematic, no matter what their political ideals are.", "effects": {"iy": -2}},
-{"id": 139, "question": "Politics should be avoided in daily life.", "effects": {"iy": -2}},
+{"id": 360, "question": "Politics is boring to me.", "effects": {"iy": -2}},
+{"id": 361, "question": "Nearly all politicians are evil and problematic, no matter what their political ideals are.", "effects": {"iy": -2}},
+{"id": 362, "question": "Politics should be avoided in daily life.", "effects": {"iy": -2}},
 //Political Engagement - Politicized
-{"id": 140, "question": "Politics is very important for society, and shouldn't be ignored.", "effects": {"iy": 2}},
+{"id": 363, "question": "Politics is very important for society, and shouldn't be ignored.", "effects": {"iy": 2}},
   
 //Collectivization
-{"id": 141, "question": "Most things can only be accomplished through a group.", "effects": {"ja": -2}},
-{"id": 142, "question": "If the current career system is being used, a person's personal and work life should stay seperate.", "effects": {"ja": 2}},
-{"id": 143, "question": "Being self-sufficient (as a person) is a positive trait.", "effects": {"ja": 2}},
+{"id": 364, "question": "Most things can only be accomplished through a group.", "effects": {"ja": -2}},
+{"id": 365, "question": "If the current career system is being used, a person's personal and work life should stay seperate.", "effects": {"ja": 2}},
+{"id": 366, "question": "Being self-sufficient (as a person) is a positive trait.", "effects": {"ja": 2}},
   
 //Revolution
-{"id": 144, "question": "Changing the status quo using violent methods is mostly unhelpful.", "effects": {"jb": 2}},
-{"id": 145, "question": "Pacifism is generally unrealistic when protesting a government.", "effects": {"jb": -2}},
-{"id": 145, "question": "Countries that violate human rights should be toppled", "effects": {"jb": -2}},
-{"id": 145, "question": "Countries that do not serve our interests should be toppled", "effects": {"jb": -2}},
+{"id": 367, "question": "Changing the status quo using violent methods is mostly unhelpful.", "effects": {"jb": 2}},
+{"id": 368, "question": "Pacifism is generally unrealistic when protesting a government.", "effects": {"jb": -2}},
+{"id": 369, "question": "Countries that violate human rights should be toppled", "effects": {"jb": -2}},
+{"id": 370, "question": "Countries that do not serve our interests should be toppled", "effects": {"jb": -2}},
 
 //Idealism
-{"id": 146, "question": "Idealists are mostly unrealistic.", "effects": {"jc": 2}},
-{"id": 147, "question": "We should not ignore ideologies that seem radical, but has a chance of success.", "effects": {"jc": -2}},
-{"id": 148, "question": "We should be more optimistic towards a variety of different ideas.", "effects": {"jc": -2}},
+{"id": 371, "question": "Idealists are mostly unrealistic.", "effects": {"jc": 2}},
+{"id": 372, "question": "We should not ignore ideologies that seem radical, but has a chance of success.", "effects": {"jc": -2}},
+{"id": 373, "question": "We should be more optimistic towards a variety of different ideas.", "effects": {"jc": -2}},
 
 //Consequence
-{"id": 149, "question": "An eye for eye and a tooth for tooth.", "effects": {"jd": 2}},
-{"id": 150, "question": "We should judge an action based on its consequences.", "effects": {"jd": 2}},
-{"id": 151, "question": "An action should be seen as right or wrong through a set of rules and principles.", "effects": {"jd": -2}},
-{"id": 152, "question": "Intention is more important than consequence when judging an action.", "effects": {"jd": -2}},
+{"id": 374, "question": "An eye for eye and a tooth for tooth.", "effects": {"jd": 2}},
+{"id": 375, "question": "We should judge an action based on its consequences.", "effects": {"jd": 2}},
+{"id": 376, "question": "An action should be seen as right or wrong through a set of rules and principles.", "effects": {"jd": -2}},
+{"id": 377, "question": "Intention is more important than consequence when judging an action.", "effects": {"jd": -2}},
   
 ];
