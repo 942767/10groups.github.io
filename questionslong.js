@@ -398,7 +398,7 @@ questions =  [
 {"id": 343, "question": "No cultures are superior to others.","effects": {"gy": -2}},
 {"id": 344, "question": "I enjoy some foreign cultures","effects": {"gy": -2}},
 {"id": 345, "question": "We should be more accepting to other cultures","effects": {"gy": -2}},
-{"id": 346, "question": "Our culture would be better with other cultures mixed in more","effects: "{"gy":-2}},
+{"id": 346, "question": "Our culture would be better with other cultures mixed in more","effects": {"gy": -2}},
 {"id": 347, "question": "Monoculturalism is disastrous for society.", "effects": {"gy": -2}},
 {"id": 348, "question": "National cultures are important to protect", "effects": {"gy": -2}},
 {"id": 349, "question": "Race and ethnicity should be unimportant for everyone.", "effects": {"gy": -2}},
