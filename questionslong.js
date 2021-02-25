@@ -49,7 +49,7 @@ questions =  [
 {"id": 41, "question": "The wealthy have far more than they need", "effects": {"x": -2, "ax": -2}},
 {"id": 42, "question": "People born to wealthy families have unfair success even when they aren't skilled and don't work hard", "effects": {"x": -2, "ax": -2}},
 {"id": 43, "question": "From each according to his ability, to each according to his needs.", "effects": {"x": -2, "ax": -2}},
-{"id": 44, "question": "Oppression by corporations is more of a concern than oppression by governments.", "effects": {"x": -2, "ax": -2, "y" = 2}}
+{"id": 44, "question": "Oppression by corporations is more of a concern than oppression by governments.", "effects": {"x": -2, "ax": -2, "y" = 2}},
 {"id": 45, "question": "The means of production should belong to the workers.", "effects": {"x": -2, "ax": -2}},
 {"id": 46, "question": "Roads and transportation should be publicly owned.", "effects": {"x": -2, "ax": -2}},
 {"id": 47, "question": "Economic inequality is still a very serious problem.", "effects": {"x": -2, "ax": -2}},
