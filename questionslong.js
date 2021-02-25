@@ -449,7 +449,7 @@ questions =  [
 
 //Consequence
 {"id": 378, "question": "An eye for eye and a tooth for tooth.", "effects": {"jd": 2}},
-{"id": 378, "question": "We should judge an action based on its consequences.", "effects": {"jd": 2}},
+{"id": 379, "question": "We should judge an action based on its consequences.", "effects": {"jd": 2}},
 {"id": 380, "question": "An action should be seen as right or wrong through a set of rules and principles.", "effects": {"jd": -2}},
 {"id": 381, "question": "Intention is more important than consequence when judging an action.", "effects": {"jd": -2}},
   
