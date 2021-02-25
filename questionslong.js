@@ -7,8 +7,7 @@ questions =  [
 {"id": 3, "question": "Governments should penalise businesses that mislead the public.", "effects": {"x": -2, "ax": -2}},
 {"id": 4, "question": "Only the government can fairly and effectively regulate organisations.", "effects": {"x": -2, "ax": -2}},
 {"id": 5, "question": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.", "effects": {"x": -2, "ax": -2}},
-{"id": 6, "question": "Environmental regulations are essential.", "effects": {"x": -2, "ax": -2}},
-  
+{"id": 6, "question": "Environmental regulations are essential.", "effects": {"x": -2, "ax": -2}},  
 //Economic Regulation - Laissez Faire
 {"id": 7, "question": "Most corporations should be state-owned.", "effects": {"y": -2, "ay": 2}},
 {"id": 8, "question": "A free economy is the best tool for establishing wages and the price of labour.", "effects": {"y": -2, "ay": 2}},
@@ -44,7 +43,6 @@ questions =  [
 {"id": 36, "question": "People should have to work for anything they get", "effects": {"x": 2, "ax": 2}},  
 {"id": 37, "question": "The poor choose to be poor", "effects": {"x": 2, "ax": 2}},  
 {"id": 38, "question": "Those who do not work should die", "effects": {"x": 2, "ax": 2}},  
-
 //Economic System - Socialism
 {"id": 39, "question": "Communism, if implemented correctly, would be a good form of economics", "effects": {"x": -2, "ax": -2}},
 {"id": 40, "question": "Taxes should be increased on the rich to provide for the poor.", "effects": {"x": -2, "ax": -2}},
@@ -87,7 +85,6 @@ questions =  [
 {"id": 61, "question": "Elections are a waste of resources", "effects": {"y": 2, "bx": -2, "dx": = 2}},
 {"id": 62, "question": "Only those who serve in the military should be allowed to have influence on who is in power", "effects": {"y": 2, "by": 2}}, 
 {"id": 63, "question": "Democracy is the worst form of government, except for all the others we've tried.", "effects": {"y": 2, "by": 2}}, 
-
 //Governmental System - Democracy
 {"id": 64, "question": "Liberal democracy is the least worst system for leadership.", "effects": {"y": -2, "bx": 2}},
 {"id": 65, "question": "Without democracy, a society is nothing.", "effects": {"y": -2, "bx": 2}},
@@ -151,7 +148,6 @@ questions =  [
 {"id": 121, "question": "War is needed to make an economy thrive", "effects": {"y": 2, "by": 2}},  
 {"id": 122, "question": "Diplomacy only hurts nations", "effects": {"y": 2, "by": 2}},  
 {"id": 123, "question": "Police need more power and protection", "effects": {"y": 2, "by": 2}},  
-
 //Governmental Size - Libertarian
 {"id": 124, "question": "Any action that does not impose agression on any person should not be considered a criminal offence.", "effects": {"y": -2, "by": -2}},
 {"id": 125, "question": "All authority should be questioned.", "effects": {"y": -2, "by": -2}},
@@ -206,7 +202,6 @@ questions =  [
 {"id": 172, "question": "Globalization is inevitable.", "effects": {"cx": -2}},
 {"id": 173, "question": "Cultures should learn from each others to make progress quicker and easier.", "effects": {"cx": -2}},
 {"id": 174, "question": "Violent action should be made to countries that violate basic human rights.", "effects": {"cx": -2}},
-  
 //Diplomatic Applicability - Particular
 {"id": 175, "question": "Different countries and cultures have different preferences for the type of government.", "effects": {"cx": 2}},
 {"id": 176, "question": "All countries should solve its internal issues before focusing on external issues.", "effects": {"cx": 2}},
@@ -244,8 +239,7 @@ questions =  [
 {"id": 206, "question": "There should not be international law", "effects": {"cy": 2}},
 {"id": 207, "question": "Our race has many superior qualities, compared with other races.", "effects": {"cy": 2}},  
 {"id": 208, "question": "All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.", "effects": {"cy": 2}},
-{"id": 209, "question": "We have no right to militarily intervene in other nations", "effects": {"cy": 2}},
-  
+{"id": 209, "question": "We have no right to militarily intervene in other nations", "effects": {"cy": 2}},  
 //Diplomatic Relations - Globalism
 {"id": 210, "question": "No one chooses their country of birth, so it’s foolish to be proud of it.", "effects": {"cy": -2}},
 {"id": 211, "question": "We should open our borders to immigration.", "effects": {"cy": -2}},
@@ -295,7 +289,6 @@ questions =  [
 {"id": 253, "question": "Mothers may have careers, but their first duty is to be homemakers.", "effects": {"dx": -2}}
 {"id": 254, "question": "Sex outside marriage is usually immoral.", "effects": {"dx": -2}},
 {"id": 255, "question": "These days openness about sex has gone too far.", "effects": {"dx": -2}},
-
 //Societal Tradition - Progress
 {"id": 256, "question": "Religion is mostly fictional.", "effects": {"dx": -2}}, 
 {"id": 257, "question": "There is no higher power", "effects": {"dx": -2}}, 
@@ -328,8 +321,7 @@ questions =  [
 {"id": 282, "question": "Reforms should happen gradually and slowly.", "effects": {"dy": 2}},
 {"id": 283, "question": "All reforms should happen without violence.", "effects": {"dy": 2}},
 {"id": 284, "question": "It's sometimes moral to crush a revolution or protest by force.", "effects": {"dy": 2}},
-{"id": 285, "question": "Political leaders should change the system as little as possible during their term.", "effects": {"dy": 2}},
-  
+{"id": 285, "question": "Political leaders should change the system as little as possible during their term.", "effects": {"dy": 2}}, 
 //Societal Change - Reform
 {"id": 286, "question": "Thinking in the long term is more important than thinking in the short term.", "effects": {"dy": -2}},
 {"id": 287, "question": "The current political system in my nation is flawed.", "effects": {"dy": -2}},
@@ -342,8 +334,7 @@ questions =  [
 {"id": 292, "question": "Usage of genetic modification for animals and plants should be minimized.", "effects": {"ex": -2}},
 {"id": 293, "question": "Genetic modification should be used rarely, if ever", "effects": {"ex": -2}},
 {"id": 294, "question": "Modernity and social progress has led to a decrease of happiness, and often lacks meaning.", "effects": {"ex": -2}},
-{"id": 295,  "question": "Society was better many years ago than it is today.", "effects": {"ex": -2}},
-  
+{"id": 295,  "question": "Society was better many years ago than it is today.", "effects": {"ex": -2}},  
 //Technological Acceleration - Accelerate
 {"id": 296, "question": "If artifical intellegence can rule better than humans, then they should rule.", "effects": {"ex": -2}},
 {"id": 297, "question": "Genetic modification of food can avoid effects from droughts and floods.", "effects": {"ex": -2}},
@@ -361,8 +352,7 @@ questions =  [
 //Technological Transhumanism - Transhumanism
 {"id": 308, "question": "Getting past physical limitations through technology would be beneficial to mankind.", "effects": {"ey": 2}},
 {"id": 309, "question": "Transhumanism will be inevitable in the near future, in most nations.", "effects": {"ey": 2}},
-{"id": 310, "question": "People are overly worrying about physical human modifications nowadays.", "effects": {"ey": 2}},
-  
+{"id": 310, "question": "People are overly worrying about physical human modifications nowadays.", "effects": {"ey": 2}}, 
 //Technological Transhumanism - Primitivism
 {"id": 311, "question": "We must go back to a basic way of life without modern conveniences.", "effects": {"ey": -2}},
 {"id": 312, "question": "Technology that improves mental and physical capabilities shouldn't be used, in any political system.", "effects": {"ey": -2}},
@@ -372,8 +362,7 @@ questions =  [
 //Law System - Civil Law
 {"id": 315, "question": "Law principles should be codified into a referable system.", "effects": {"fx": 2}},
 {"id": 316, "question": "If a law system exists, lawmakers and legal experts should hold more influence than judges.", "effects": {"fx": 2}},
-{"id": 317, "question": "It is very important to maintain law and order.", "effects": {"fx": 2}},
-  
+{"id": 317, "question": "It is very important to maintain law and order.", "effects": {"fx": 2}}, 
 //Law System - Common Law
 {"id": 318, "question": "Courts should reference to other judicial decisions.", "effects": {"fx": -2}},
 {"id": 319, "question": "If judges and legislators exist, judges should hold more power than legislators.", "effects": {"fx": -2}},
@@ -384,8 +373,7 @@ questions =  [
 {"id": 322, "question": "A rehabilitative system is unjust.", "effects": {"fy": 2}},
 {"id": 323, "question": "Punishment should be valued, more than that of rehabilitation.", "effects": {"fy": 2}},
 {"id": 324, "question": "It's a waste of time trying to rehabilitate some criminals.", "effects": {"fy": 2}},
-{"id": 325, "question": "I support capital punishment.", "effects": {"fy": 2}},
-  
+{"id": 325, "question": "I support capital punishment.", "effects": {"fy": 2}},  
 //Law Focus - Rehabilitive
 {"id": 326, "question": "Everybody deserves a second chance.", "effects": {"fy": -2}},
 
@@ -404,8 +392,7 @@ questions =  [
 //Cultural Assimilation - Monocultural
 {"id": 336, "question": "If we accept migrants into our borders, the migrants should be expected to assimilate into our culture.", "effects": {"gy": 2}},
 {"id": 337, "question": "Multiculturalism is unrealistic.", "effects": {"gy": 2}},
-{"id": 338, "question": "Some cultures are inherently suprerior to other cultures.", "effects": {"gy": 2}},
-  
+{"id": 338, "question": "Some cultures are inherently suprerior to other cultures.", "effects": {"gy": 2}}, 
 //Cultural Assimilation - Multicultural
 {"id": 339, "question": "My nation should be more diverse.", "effects": {"gy": -2}},
 {"id": 340, "question": "No cultures are superior to others.","effects": {"gy": -2}},
@@ -422,10 +409,9 @@ questions =  [
 {"id": 349, "question": "Compromises should be made in order to suit the needs of most people.", "effects": {"hx": -2}},
 {"id": 350, "question": "Compromizing can avoid unnecessary conflict.", "effects": {"hx": -2}},
 {"id": 351, "question": "Adopting radical ideas isn't possible unless compromizes are made.", "effects": {"hx": -2}},
-
-//Procedural Transition - Transitional
-{"id": 352, "question": "A transitional state should be made.", "effects": {"hy": 2}},
   
+//Procedural Transition - Transitional
+{"id": 352, "question": "A transitional state should be made.", "effects": {"hy": 2}},  
 //Procedural Transition - Direct
 {"id": 353, "question": "My ideology should be established as quick as possible.", "effects": {"hy": -2}},
 {"id": 354, "question": "My political ideals can be acheived within 10 years.", "effects": {"hy": -2}},
