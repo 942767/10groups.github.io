@@ -1,4 +1,4 @@
-questions =  [
+Questions =  [
   
 //Economic Regulation - Planned
 {"id": 0, "question": "In the current system, it is necessary for the government to intervene in the economy to protect consumers.", "effects": {"y": -2, "ay": 2}},
@@ -402,7 +402,7 @@ questions =  [
 {"id": 358, "question": "Our culture would be better with other cultures mixed in more","effects": {"gy": -2}},
 {"id": 359, "question": "Monoculturalism is disastrous for society.", "effects": {"gy": -2}},
 {"id": 360, "question": "National cultures are important to protect", "effects": {"gy": -2}},
-{"id": 361 "question": "Race and ethnicity should be unimportant for everyone.", "effects": {"gy": -2}},
+{"id": 361, "question": "Race and ethnicity should be unimportant for everyone.", "effects": {"gy": -2}},
 {"id": 362, "question": "Everybody should speak at least two languages", "effects": {"gy": -2}},
 {"id": 363, "question": "All societies are a blend of cultures", "effects": {"gy": -2}},
 
@@ -451,6 +451,6 @@ questions =  [
 {"id": 389, "question": "An eye for eye and a tooth for tooth.", "effects": {"jd": 2}},
 {"id": 390, "question": "We should judge an action based on its consequences.", "effects": {"jd": 2}},
 {"id": 391, "question": "An action should be seen as right or wrong through a set of rules and principles.", "effects": {"jd": -2}},
-{"id": 392, "question": "Intention is more important than consequence when judging an action.", "effects": {"jd": -2}},
-  
+{"id": 392, "question": "Intention is more important than consequence when judging an action.", "effects": {"jd": -2}}, 
+ 
 ];
