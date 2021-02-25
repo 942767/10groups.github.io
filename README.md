@@ -1,2 +1,1 @@
-10Groups is a political test that measures one's political beliefs on 10 Different Categories.
-
+10Groups Deluxe is a Modified version of the original 10groups test with more questions than the original.
