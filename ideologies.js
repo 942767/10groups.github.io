@@ -453,7 +453,7 @@ ideologies = [
 	{
         "name": "Eurocommunism",
 	    	"link": "https://en.wikipedia.org/wiki/Eurocommunism",
-		"desc": "Marxism-Leninism seeks to establish a socialist state to develop further into socialism and eventually communism, described as a classless social system with common ownership of the means of production.",
+		"desc": "Eurocommunism, also known as Democratic Communism, is a revisionist communist ideology which was popular in Western Europe during the 1970s. It seeked to gain independance from the Soviet Union and preserves many libertarian democratic beliefs.",
 		"next": "Democratic Socialism, Marxism-Leninism, Social Democracy",
         "stats": {
 	  "econ": -5,
