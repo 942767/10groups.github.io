@@ -180,7 +180,7 @@ questions =  [
 {"id": 166, "question": "The police was not made to protect the people, but to uphold the status-quo by force.", "effects": {"y": -2, "by": -2}},
 {"id": 167, "question": "Police should be regulated more", "effects": {"y": -2, "by": -2}},
 {"id": 168, "question": "Victimless crimes should not be considered 'crimes'.", "effects": {"y": -2, "by": -2}},
-{"id": 168, "question": "Jury nullification should be legal.", "effects": {"y": -2, "by": -2}},
+{"id": 169, "question": "Jury nullification should be legal.", "effects": {"y": -2, "by": -2}},
 {"id": 170, "question": "State schools are a bad idea because our state shouldn't be influencing our children.", "effects": {"y": -2, "by": -2}}, 
 {"id": 171, "question": "Pornography, depicting consenting adults, should be legal for the adult population.", "effects": {"y": -2, "by": -2}}, 
 {"id": 172, "question": "Physician-assisted suicide should be legal.", "effects": {"y": -2, "by": -2}}, 
