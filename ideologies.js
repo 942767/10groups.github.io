@@ -481,7 +481,7 @@ ideologies = [
 	{
         "name": "Khrushchevism",
 	    	"link": "https://en.wikipedia.org/wiki/Khrushchevism",
-		"desc": "Khrushchevism is a form of revisionist Marxism–Leninism which consisted of the theories and policies of Nikita Khrushchev and his administration in the Soviet Union.",
+		"desc": "Khrushchevism is a form of revisionist Marxism–Leninism which consisted of the theories and policies of Nikita Khrushchev and his administration in the Soviet Union. Khrushchevism involves the rejection of Stalinism and particularly represents a movement away from Stalinist politics, including advocating a more liberal tolerance of some cultural dissent and deviance, a more welcoming international relations policy and attitude towards foreigners and a repudiation of Stalinist arbitrariness and terror tactics. Minimal amounts of private property are allowed under Khrushchevism.",
 		"next": "Democratic Socialism, Marxism-Leninism, Social Democracy",
         "stats": {
 	  "econ": -5,
@@ -791,7 +791,7 @@ ideologies = [
 	{
         "name": "Anarcho-Communism",
 	    	"link": "https://en.wikipedia.org/wiki/Anarcho-communism",
-		"desc": "Anarcho-Communism advocates the abolition of the state, capitalism, wage labour and private property, in favor of common ownership of the means of production and direct democracy.",
+		"desc": "Anarcho-Communism advocates the abolition of the state, capitalism, wage labour, social classes, and private property, in favor of common ownership of the means of production and direct democracy.",
 		"next": "Anarcho-Syndicalism, Anarcho-Collectivism, Anarchism, Libertarian Socialism",
         "stats": {
 	  "econ": -9,
