@@ -10,7 +10,7 @@ questions =  [
 {"id": 6, "question": "Environmental regulations are essential.", "effects": {"x": -2, "ax": -2}},  
 //Economic Regulation - Laissez Faire
 {"id": 7, "question": "Most corporations should be state-owned.", "effects": {"y": -2, "ay": 2}},
-{"id": 8, "question": "A free economy is the best tool for establishing wages and the price of labour.", "effects": {"y": -2, "ay": 2}},
+{"id": 8, "question": "A free economy is the best tool for establishing wages and the price of labour.", "effects": {"y": -2, "ay": -2}},
 {"id": 9, "question": "The market regulates itself, unjust monopolies will not survive in a free market.", "effects": {"y": -2, "ay": -2}},
 {"id": 10, "question": "A regulated economy is more unfair for the people, when compared to a laissez-faire economy.", "effects": {"y": -2, "ay": -2}},
 {"id": 11, "question": "Taxation for the rich should be lowered, or even abolished.", "effects": {"y": -2, "ay": -2}},
