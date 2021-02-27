@@ -3,7 +3,7 @@ questions =  [
 //Economic Regulation - Planned
 {"id": 0, "question": "In the current system, it is necessary for the government to intervene in the economy to protect consumers.", "effects": {"y": 2, "ay": 2}},
 {"id": 1, "question": "Without state intervention, monopolies would violate human rights.", "effects": {"y": 2, "ay": 2}},
-{"id": 2, "question": "Private organisations and corporations cannot be trusted and thus need regulating by the government.", "effects": {"x": -2, "ax": -2}},
+{"id": 2, "question": "Private organisations and corporations cannot be trusted and thus need regulating by the government.", "effects": {"x": -2, "ax": -2, "y":2, "ay": 2}},
 {"id": 3, "question": "Governments should penalise businesses that mislead the public.", "effects": {"y": 2, "ay": 2}},
 {"id": 4, "question": "Only the government can fairly and effectively regulate organisations.", "effects": {"y": 2, "ay": 2}},
 {"id": 5, "question": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.", "effects": {"y": 2, "ay": 2}},
