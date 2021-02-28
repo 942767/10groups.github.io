@@ -73,7 +73,7 @@ questions =  [
 {"id": 65, "question": "Tariffs on international trade are important to encourage local production.", "effects": {"x": -2, "ax": -2}}, 
 {"id": 66, "question": "Protectionism is sometimes necessary in trade.", "effects": {"x": -2, "ax": -2}},
 {"id": 67, "question": "Important things like Education and Healthcare should be public.", "effects": {"x": -2, "ax": -2}},
-{"id": 68, "question": "The word Mine is offensive.", "effects": {"x": -2, "ax": -2}},
+{"id": 68, "question": "The minimum Wage should be increased.", "effects": {"x": -2, "ax": -2}},
 
 //Governmental System - Autocracy
 {"id": 69, "question": "An autocracy is more beneficial than any democratic system.", "effects": {"y": 2, "bx": -2}},
