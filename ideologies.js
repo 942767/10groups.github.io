@@ -489,7 +489,7 @@ ideologies = [
 	  "econsys": 0,
 	  "econreg": 7,
           "govtsize": -5,
-          "govttype": -3,
+          "govttype": 3,
           "diplapp": 0,
           "diplrel": 0,
           "sctychg": 0,
