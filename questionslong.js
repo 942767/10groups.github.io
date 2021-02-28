@@ -267,7 +267,7 @@ questions =  [
 {"id": 248, "question": "Any deals other countries want must be bad for us", "effects": {"cy": 2}},
 {"id": 249, "question": "It would be best if the outside world didn't know about my people or country.", "effects": {"cy": 2}},
 {"id": 250, "question": "There should be no immigration, foreign affairs, contact, or knowledge of my nation.", "effects": {"cy": 2}},
-{"id": 251, "question": "There should not be international law", "effects": {"cy": 2}},
+{"id": 251, "question": "My country is superior to any other country.", "effects": {"cy": 2}},
 {"id": 252, "question": "Our race has many superior qualities, compared with other races.", "effects": {"cy": 2}},  
 {"id": 253, "question": "We have no right to militarily intervene in other nations", "effects": {"cy": 2}},  
 //Diplomatic Relations - Globalism
