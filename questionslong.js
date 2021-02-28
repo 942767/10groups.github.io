@@ -57,7 +57,7 @@ questions =  [
 {"id": 49, "question": "From each according to their ability, to each according to their needs.", "effects": {"x": -2, "ax": -2}},
 {"id": 50, "question": "The means of production should belong to the workers.", "effects": {"x": -2, "ax": -2}},
 {"id": 51, "question": "Roads and transportation should be publicly owned.", "effects": {"x": -2, "ax": -2}},
-{"id": 52, "question": "Economic inequality is still a very serious problem.", "effects": {"x": -2, "ax": -2}},
+{"id": 52, "question": "Electricity should be publicly owned.", "effects": {"x": -2, "ax": -2}},
 {"id": 53, "question": "Paying workers with food is preferable than paying with money.", "effects": {"x": -2, "ax": -2}},
 {"id": 54, "question": "Currency is a baseless idea, that should not exist.", "effects": {"x": -2, "ax": -2}},
 {"id": 55, "question": "The very existance of collectives are a spook.", "effects": {"x": -2, "ax": -2}},
