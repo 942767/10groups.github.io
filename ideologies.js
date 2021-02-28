@@ -485,7 +485,7 @@ ideologies = [
 		"next": "Democratic Socialism, Marxism-Leninism, Social Democracy",
         "stats": {
 	  "econ": -5,
-	  "govt": -2,
+	  "govt": -5,
 	  "econsys": 0,
 	  "econreg": 7,
           "govtsize": 2,
