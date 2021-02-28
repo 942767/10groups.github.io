@@ -464,7 +464,7 @@ ideologies = [
           "govttype": 2,
           "diplapp": 0,
           "diplrel": 0,
-          "sctychg": 0,
+          "sctychg": 5,
           "sctytrad": 0,
           "techacc": 0,
           "techbio": 0,
