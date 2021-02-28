@@ -116,7 +116,7 @@ ideologies = [
 	{
         "name": "Nazism",
 	    	"link": "https://en.wikipedia.org/wiki/Nazism",
-		"desc": "Nazism is a form of fascism, with disdain for liberal democracy and the parliamentary system. It incorporates anti-communism, authoritarian ultranationalism, and ethnonationalism.",
+		"desc": "Nazism is a form of fascism, with disdain for liberal democracy and the parliamentary system. It incorporates anti-communism, anti semitism, authoritarian ultranationalism, and ethnonationalism.",
 		"next": "Italian Fascism, State Capitalism, National Bolshevism",
         "stats": {
 	  "econ": -1,
