@@ -512,9 +512,9 @@ ideologies = [
 		"desc": "Distributism is an economic theory asserting that the world's productive assets should be widely owned rather than concentrated.",
 		"next": "Social Democracy, Democratic Socialism",
         "stats": {
-	  "econ": -3,
+	  "econ": 0,
 	  "govt": 2,
-	  "econsys": 5,
+	  "econsys": 0,
 	  "econreg": 5,
           "govtsize": 0,
           "govttype": 2,
