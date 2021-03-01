@@ -221,6 +221,8 @@ questions =  [
 {"id": 207, "question": "Nations should not maintain a military", "effects": {"y": -2, "by": -2}}, 
 {"id": 208, "question": "Whistleblowers should be strongly protected", "effects": {"y": -2, "by": -2}}, 
 {"id": 209, "question": "There should not be a leader in society.", "effects": {"y": -2, "by": -2}}, 
+{"id": 209, "question": "Goverment officials who commit war crimes or break the law should be held accountabe.", "effects": {"y": -2, "by": -2}}, 
+{"id": 209, "question": "The government has no right to classify info from their citizens, and they deserve to know the truth. ", "effects": {"y": -2, "by": -2}}, 
 
 //Diplomatic Applicability - Universal
 {"id": 210, "question": "My political values should be spread as much as possible.", "effects": {"cx": -2}},
