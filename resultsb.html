@@ -228,7 +228,7 @@
 	var canvas = document.getElementById("canvas");
 		var ctx = canvas.getContext("2d");
 	        ctx.beginPath();
-	        ctx.arc(1360 + (400 * (bx_axis+10)/20), 450 - (400 * (by_axis + 10)/20), 5, 0, 2 * Math.PI);
+	        ctx.arc(1360 + (360 * (bx_axis+10)/20), 450 - (400 * (by_axis + 10)/20), 5, 0, 2 * Math.PI);
 	        ctx.fillStyle = "red"
 	        ctx.fill();
 	        ctx.stroke();
@@ -332,7 +332,7 @@
 	
 	//Heat Map - General
 	ctx.beginPath();
-	ctx.arc(900 + (55 * (x_axis)) , 750 - (55 * (y_axis)) , 50 , 0, 2 * Math.PI);
+	ctx.arc(100 + (55 * (x_axis)) , 750 - (55 * (y_axis)) , 50 , 0, 2 * Math.PI);
 	ctx.fillStyle = "rgba(52, 52, 52, 0.5)"
 	ctx.fill();
 		
