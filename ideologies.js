@@ -121,7 +121,7 @@ ideologies = [
         "stats": {
 	  "econ": 1,
 	  "govt": 10,
-	  "econsys": -1,
+	  "econsys": 1,
 	  "econreg": 3,
           "govtsize": -10,
           "govttype": 10,
@@ -205,7 +205,7 @@ ideologies = [
         "stats": {
 	  "econ": -1,
 	  "govt": 7,
-	  "econsys": 5,
+	  "econsys": -1,
 	  "econreg": 3,
           "govtsize": -7,
           "govttype": 7,
@@ -229,11 +229,11 @@ ideologies = [
         "name": "Titoism",
 	    	"link": "https://en.wikipedia.org/wiki/Titoism",
 		"desc": "Titoism advocated cooperation between nations through the Non-Aligned Movement while at the same time pursuing socialism in whatever ways best suited particular nations. It is opposed to isolationism, and supports economic and political reform.",
-		"next": "State Capitalism, Dengism, State Socialism",
+		"next": "Market Socialism, Dengism, State Socialism",
         "stats": {
 	  "econ": -5,
 	  "govt": 6,
-	  "econsys": 5,
+	  "econsys": -5,
 	  "econreg": 7,
           "govtsize": -6,
           "govttype": 6,
