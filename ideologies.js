@@ -231,7 +231,7 @@ ideologies = [
 		"desc": "Titoism advocated cooperation between nations through the Non-Aligned Movement while at the same time pursuing socialism in whatever ways best suited particular nations. It is opposed to isolationism, and supports economic and political reform.",
 		"next": "State Capitalism, Dengism, State Socialism",
         "stats": {
-	  "econ": -1,
+	  "econ": -5,
 	  "govt": 6,
 	  "econsys": 5,
 	  "econreg": 7,
