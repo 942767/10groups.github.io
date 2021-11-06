@@ -119,7 +119,7 @@ ideologies = [
 		"desc": "Nazism is a form of fascism, with disdain for liberal democracy and the parliamentary system. It incorporates anti-communism, anti semitism, authoritarian ultranationalism, and ethnonationalism.",
 		"next": "Italian Fascism, State Capitalism, National Bolshevism",
         "stats": {
-	  "econ": -1,
+	  "econ": 1,
 	  "govt": 10,
 	  "econsys": -1,
 	  "econreg": 3,
