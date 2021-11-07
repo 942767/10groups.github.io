@@ -987,12 +987,12 @@ ideologies = [
 	{
         "name": "Social Democracy",
 	    	"link": "https://en.wikipedia.org/wiki/Social_democracy",
-		"desc": "Social Democracy supports political and economic democracy, and advocates strong welfare and higher taxation, especially for the wealthy.",
+		"desc": "Social Democracy supports political and economic democracy, and a form of Capitalism that advocates strong welfare and higher taxation, especially for the wealthy.",
 		"next": "Libertarian Socialism, Social Democracy",
         "stats": {
-	  "econ": -2,
-	  "govt": 0,
-	  "econsys": -2,
+	  "econ": 1,
+	  "govt": -1,
+	  "econsys": 1,
 	  "econreg": 2,
           "govtsize": 0,
           "govttype": 0,
@@ -1004,12 +1004,12 @@ ideologies = [
           "techbio": 0,
           "lawtype": 0,
           "lawrehab": 0,
-          "cltrhrchy": -1,
+          "cltrhrchy": 0,
           "cltrassi": 0,
           "proccomp": 0,
           "proctrans": 0,
           "polapol": 0,
-          "polext": -2
+          "polext": 0
         }
     },
 	{
