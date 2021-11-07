@@ -960,7 +960,7 @@ ideologies = [
         "name": "Democratic Socialism",
 	    	"link": "https://en.wikipedia.org/wiki/Democratic_socialism",
 		"desc": "Democratic socialism is defined as having a socialist economy in which the means of production are mostly socially and collectively owned or controlled, alongside a democratic political system of government.",
-		"next": "Libertarian Socialism, Social Democracy",
+		"next": "Libertarian Socialism, Market Socialism",
         "stats": {
 	  "econ": -3,
 	  "govt": 0,
