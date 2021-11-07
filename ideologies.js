@@ -513,7 +513,7 @@ ideologies = [
 		"next": "Market Socialism, Democratic Socialism",
         "stats": {
 	  "econ": -3,
-	  "govt": 2,
+	  "govt": -5,
 	  "econsys": -3,
 	  "econreg": -5,
           "govtsize": 0,
