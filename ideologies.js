@@ -456,9 +456,9 @@ ideologies = [
 		"desc": "Eurocommunism, also known as Democratic Communism, is a revisionist communist ideology which was popular in Western Europe during the 1970s. It seeked to gain independance from the Soviet Union and preserves many libertarian democratic beliefs. It also seeks to find ways of achieving the Socialist transformation of society by means of democratic methods, and of advancing towards a new Socialist society based on full respect for human liberties.",
 		"next": "Democratic Socialism, Social Democracy",
         "stats": {
-	  "econ": -5,
+	  "econ": -9,
 	  "govt": 0,
-	  "econsys": -5,
+	  "econsys": -9,
 	  "econreg": 9,
           "govtsize": 8,
           "govttype": 0,
