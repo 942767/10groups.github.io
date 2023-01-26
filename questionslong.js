@@ -24,7 +24,7 @@ questions =  [
 {"id": 18, "question": "The market economy is the most efficient system known to man.", "effects": {"y": -2, "ay": -2}},
 {"id": 19, "question": "The market should be able to provide a majority of healthcare services.", "effects": {"y": -2, "ay": -2}},
 {"id": 20, "question": "Freedom of business is the best practical way a society can prosper.", "effects": {"y": -2, "ay": -2}},
-{"id": 21, "question": "Centralization of resources always lead to inneficiency in the best case and famines in the worst case.", "effects": {"y": -2, "ay": -2}},  
+{"id": 21, "question": "Centralization of agriculture always leads to inneficiency in the best case and famines in the worst case.", "effects": {"y": -2, "ay": -2}},  
 {"id": 22, "question": "No country will be truly self-sufficient, therefore markets must be opened with other countries too.", "effects": {"y": -2, "ay": -2}},
 {"id": 23, "question": "International trade is generally beneficial.", "effects": {"y": -2, "ay": -2}},  
 {"id": 24, "question": "Borders only get in the way of international trade.", "effects": {"y": -2, "ay": -2}},  
