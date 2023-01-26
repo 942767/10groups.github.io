@@ -1101,7 +1101,7 @@ ideologies = [
         "name": "Georgism",
 	    	"link": "https://en.wikipedia.org/wiki/Georgism",
 		"desc": "Georgism is an ideology that believes all land should belong equally to all members of society via a land tax.",
-		"next": "Geolibertarianism, Mutualism, Social Democracy",
+		"next": "Geolibertarianism, Mutualism",
         "stats": {
 	  "econ": 0,
 	  "govt": -2,
