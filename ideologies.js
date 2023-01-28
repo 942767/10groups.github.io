@@ -1072,6 +1072,7 @@ ideologies = [
         "name": "Neozapatismo",
 	    	"link": "https://en.wikipedia.org/wiki/Neozapatismo",
 		"desc": "Neozapatismo is the political philosophy and practice devised and employed by the Zapatista Army of National Liberation, who have governed a number of communities in Chiapas, Mexico since the beginning of the Chiapas conflict.",
+		"next": "Libertarian Socialism, Minarcho-Socialism",
         "stats": {
 	  "econ": -9,
 	  "govt": -8,
