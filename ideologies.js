@@ -1094,6 +1094,8 @@ ideologies = [
           "proctrans": 0,
           "polapol": 0,
           "polext": 2
+	{	
+    },
 //LibCenter
 	{
         "name": "Anarchism (Without Adjectives)",
