@@ -1009,7 +1009,7 @@ ideologies = [
           "proccomp": 0,
           "proctrans": 0,
           "polapol": 0,
-          "polext": 0
+          "polext": -2
         }
     },
 	{
