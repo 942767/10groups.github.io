@@ -990,7 +990,7 @@ ideologies = [
 		"desc": "Social Democracy supports political and economic democracy, and a form of Capitalism that advocates strong welfare and higher taxation, especially for the wealthy.",
 		"next": "Progressivism, Syndicalism",
         "stats": {
-	  "econ": 0,
+	  "econ": 1,
 	  "govt": -1,
 	  "econsys": 1,
 	  "econreg": 2,
